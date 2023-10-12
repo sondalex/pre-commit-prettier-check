@@ -1,0 +1,9 @@
+- id: prettier
+  entry: prettier -c
+  require_serial: false
+  'types': [text]
+  args: []
+  name: prettier
+  language: node
+  description: 'Prettier checker'
+  additional_dependencies: ['prettier@3.0.3']
