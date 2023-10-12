@@ -1,0 +1,5 @@
+{
+  "name": "pre-commit-prettier-check",
+  "version": "0.1.0",
+  "description": "Prettier precommit checker"
+}
